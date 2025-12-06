@@ -9,9 +9,8 @@ GRAYSONS MACRO MACHINE is a 5 key macropad. It also has 4 SK6812 MINI-E LEDs, an
 Features:
 2 peice 3d printed case. Custom colors ooooohhh.
 4 SK6812 MINI-E RGB LEDs. these should work as under glow for the keys.
-5 Keys
-VIA support!
-CAD Model:
+5 Keys!
+CADModel:
 <img width="1077" height="625" alt="HACKCLUB CASE TOP" src="https://github.com/user-attachments/assets/b767fbd1-cffb-4cf5-b5e7-76764c1fa647" />
 <img width="769" height="585" alt="HACKCLUB CASE BOTTOM" src="https://github.com/user-attachments/assets/c4f4c317-31a9-4ba1-b16d-d7cfc4aaba69" />
 
