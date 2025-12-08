@@ -1,4 +1,4 @@
-# HACKCLUB-GCBS-MACRO-MACHINE
+[HACK.CLUB.MACRO.BOM.csv](https://github.com/user-attachments/files/24020276/HACK.CLUB.MACRO.BOM.csv)# HACKCLUB-GCBS-MACRO-MACHINE
 This is my first GitHub repo so this might not be good but I built this macro pad for the hackclub project
 If you have and ideas or concerns I am fully open to critisism just leave a comment! :)
 
@@ -27,7 +27,13 @@ Made in KiCAd.
 
 PCB:
 
+<img width="1404" height="758" alt="image" src="https://github.com/user-attachments/assets/ca3db5dc-b005-45ff-96f6-4c66b1146857" />
+
+3d file of the PCB (With components =>)
+
+
 <img width="564" height="661" alt="HACKCLUB PCB" src="https://github.com/user-attachments/assets/84f8dc53-8a2d-4403-938e-b3668de6253c" />
+
 Here's my PCB! It was made in KiCad.
 
 
@@ -38,9 +44,16 @@ This hackpad uses QMK firmware for everything.
 I might add more in the future! That's it for now
 
 BOM:
+
+1;"D1,D4,D3,D2";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";4;"SK6812MINI";;;
+2;"SW1,SW3,SW5,SW2,SW4";"SW_Cherry_MX_1.00u_PCB";5;"SW_Push";;;
+3;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+
+(Above is the CSV veersion of the BOM and below is just normal)
+
 Here should be everything you need to make this hackpad
 
-5x Cherry MX Switches
+5x Cherry MX Blue Switches
 
 5x DSA Keycaps
 
