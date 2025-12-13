@@ -11,8 +11,8 @@ Features:
 4 SK6812 MINI-E RGB LEDs. these should work as under glow for the keys.
 5 Keys!
 CADModel:
-<img width="1077" height="625" alt="HACKCLUB CASE TOP" src="https://github.com/user-attachments/assets/b767fbd1-cffb-4cf5-b5e7-76764c1fa647" />
-<img width="769" height="585" alt="HACKCLUB CASE BOTTOM" src="https://github.com/user-attachments/assets/c4f4c317-31a9-4ba1-b16d-d7cfc4aaba69" />
+<img width="1600" height="670" alt="TOP AND BOTTOM v1" src="https://github.com/user-attachments/assets/ccd809ad-5c8f-4d24-87da-dae467a42eeb" />
+
 
 It has 2 separate printed pieces. The base where the PCB sits, and the top cover.
 
