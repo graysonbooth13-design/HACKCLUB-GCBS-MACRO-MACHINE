@@ -49,7 +49,7 @@ BOM:
 2;"SW1,SW3,SW5,SW2,SW4";"SW_Cherry_MX_1.00u_PCB";5;"SW_Push";;;
 3;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
 
-(Above is the CSV veersion of the BOM and below is just normal)
+(Above is the CSV version of the BOM and below is just normal)
 
 Here should be everything you need to make this hackpad
 
