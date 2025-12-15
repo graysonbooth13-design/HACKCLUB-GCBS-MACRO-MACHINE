@@ -1,6 +1,6 @@
 [HACK.CLUB.MACRO.BOM.csv](https://github.com/user-attachments/files/24020276/HACK.CLUB.MACRO.BOM.csv)# HACKCLUB-GCBS-MACRO-MACHINE
-This is my first GitHub repo so this might not be good but I built this macro pad for the hackclub project
-If you have and ideas or concerns I am fully open to critisism just leave a comment! :)
+This is my first GitHub repo so it is a work in progress but I built this macro pad for the hackclub project
+If you have any ideas or concerns I am fully open to critisism just leave a comment! :)
 
 
 GRAYSONS MACRO MACHINE
@@ -14,7 +14,7 @@ CADModel:
 <img width="1600" height="670" alt="TOP AND BOTTOM v1" src="https://github.com/user-attachments/assets/ccd809ad-5c8f-4d24-87da-dae467a42eeb" />
 
 
-It has 2 separate printed pieces. The base where the PCB sits, and the top cover.
+It has 2 seperate printed pieces. The base where the PCB sits, and the top cover.
 
 
 Schematic:
@@ -72,6 +72,4 @@ What happenes when you eat tinfoil
 
 
 
-you... sheetmettle :)
-
-Oh fun fact: Mine was created in 2 days before the last day able to turn it in :)
+you...sheet metal :)
